@@ -20,8 +20,55 @@
       "description": "Final Deliverable",
       "startdate": "2023-11-20",
       "enddate": "2023-12-18"
+    },
+    {
+      "id": 4,
+      "taskname": "Read Software Engineering Book",
+      "description": "Self-Study",
+      "startdate": "2023-12-01",
+      "enddate": "2023-12-31"
+    },
+    {
+      "id": 5,
+      "taskname": "Attend Coding Bootcamp",
+      "description": "Training Program",
+      "startdate": "2023-12-10",
+      "enddate": "2024-01-15"
+    },
+    {
+      "id": 6,
+      "taskname": "Complete Mobile App Prototype",
+      "description": "Personal Project",
+      "startdate": "2024-01-01",
+      "enddate": "2024-02-28"
+    },
+    {
+      "id": 7,
+      "taskname": "Learn React Native",
+      "description": "Online Course",
+      "startdate": "2024-02-01",
+      "enddate": "2024-03-15"
+    },
+    {
+      "id": 8,
+      "taskname": "Participate in Code Jam",
+      "description": "Programming Competition",
+      "startdate": "2024-02-15",
+      "enddate": "2024-03-31"
+    },
+    {
+      "id": 9,
+      "taskname": "Contribute to Open Source Project",
+      "description": "Community Involvement",
+      "startdate": "2024-03-01",
+      "enddate": "2024-04-15"
+    },
+    {
+      "id": 10,
+      "taskname": "Finalize Graduation Project",
+      "description": "Major Capstone",
+      "startdate": "2024-03-20",
+      "enddate": "2024-05-01"
     }
-    // Add more tasks as needed
   ]
 }
-
